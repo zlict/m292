@@ -1,1 +1,1 @@
-# m292
+# m292 - Applikation mit Webtechnologien clientseitig implementieren
